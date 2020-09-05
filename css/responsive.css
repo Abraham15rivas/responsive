@@ -114,6 +114,13 @@
         margin-left: auto;
         font-size: 10px !important;
     }
+    .blk2 {
+        margin-left: 70px !important;
+    }
+    .footer {
+        margin-right: 50px;
+        margin-left: 30px;
+    }
 }
 
 @media (max-width: 320px) {
@@ -128,5 +135,9 @@
         margin-right: 0;
         margin-left: auto;
         font-size: 10px !important;
+    }
+    .footer {
+        margin-right: 50px;
+        margin-left: 30px;
     }
 }
