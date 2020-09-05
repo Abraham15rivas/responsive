@@ -1,74 +1,132 @@
-@media (max-width: 1024px){ 
-    .blk2{ margin-left: 250px !important;}
+@media (max-width: 1024px) {
+    .blk2 {
+        margin-left: 250px !important;
+    }
 }
 
-@media (max-width: 954px){
-    img.img-portfolio { width: 300px !important; }
+@media (max-width: 954px) {
+    img.img-portfolio {
+        width: 300px !important;
+    }
     #top .text-vertical-center h3 {
         width: auto;
         margin: auto;
         margin-top: 15px;
     }
-    #about .container .row  .text-center h2, .lead,
-    .call-to-action .container .row  .text-center h3 { width: 700px; }
-    .callout{ width: 100% !important }
-    .callout .text-vertical-center h1{ width: 400px }
-    .blk2{ margin-left: 140px !important;}
-
-}
-@media (max-width: 768px){
-    .blk{ margin-left: 50px; margin-top: 25px; }
-    .portafolio-item{ margin-left: 100px;}
-    .call-to-action .container .row  .text-center h3 { width: 600px;}
-
-}
-
-@media (max-width: 720px){
-    #about .container .row  .text-center h2, .lead { width: 550px; }
-    .blk { margin-left: 30%; }
-    .call-to-action .container .row  .text-center h3 { width: 400px;}
-    .footer{ margin-left: -400px; }
-
-
+    #about .container .row .text-center h2,
+    .lead,
+    .call-to-action .container .row .text-center h3 {
+        width: 700px;
+    }
+    .callout {
+        width: 100% !important
+    }
+    .callout .text-vertical-center h1 {
+        width: 400px
+    }
+    .blk2 {
+        margin-left: 140px !important;
+    }
 }
 
-@media (max-width: 564px){
-    #about .container .row  .text-center h2, .lead {
-        width: 350px; 
+@media (max-width: 768px) {
+    .blk {
+        margin-left: 50px;
+        margin-top: 25px;
+    }
+    .portafolio-item {
+        margin-left: 100px;
+    }
+    .call-to-action .container .row .text-center h3 {
+        width: 600px;
+    }
+}
+
+@media (max-width: 720px) {
+    #about .container .row .text-center h2,
+    .lead {
+        width: 550px;
+    }
+    .blk {
+        margin-left: 30%;
+    }
+    .call-to-action .container .row .text-center h3 {
+        width: 400px;
+    }
+    .footer {
+        margin-left: -400px;
+    }
+}
+
+@media (max-width: 564px) {
+    #about .container .row .text-center h2,
+    .lead {
+        width: 350px;
         font-size: 20px;
         margin-left: 35px;
     }
-    .blk { margin-left: 20%; }
-    .blk2{ margin-left: 90px !important;}
-    .call-to-action .container .row  .text-center h3 { width: 200px;}
+    .blk {
+        margin-left: 20%;
+    }
+    .blk2 {
+        margin-left: 90px !important;
+    }
+    .call-to-action .container .row .text-center h3 {
+        width: 200px;
+    }
 }
 
-@media (max-width: 450px){
-    .blk2{ margin-left: 1px !important; width: 200px;}
-  
+@media (max-width: 450px) {
+    .blk2 {
+        margin-left: 1px !important;
+        width: 200px;
+    }
 }
 
-@media (max-width: 425px){
-    .footer{ margin-left: -400px; }
+@media (max-width: 425px) {
+    .footer {
+        margin-left: -400px;
+    }
 }
 
-
-@media (max-width: 402px){
-    #about .container .row  .text-center h2, .lead {
-        width: 260px !important; 
+@media (max-width: 402px) {
+    #about .container .row .text-center h2,
+    .lead {
+        width: 260px !important;
         margin-left: 30px;
     }
-    .blk { margin-left: -10px; }
-    .callout .text-vertical-center h1{
+    .blk {
+        margin-left: -10px;
+    }
+    .callout .text-vertical-center h1 {
         font-size: 55px;
         width: 100px;
     }
 }
 
-@media (max-width: 375px){
-    .blk { margin-left: 25px; }
+@media (max-width: 375px) {
+    .blk {
+        margin-left: 25px;
+    }
+    #about .container .row .text-center h2,
+    .lead {
+        margin-right: 0;
+        margin-left: auto;
+        font-size: 10px !important;
+    }
 }
-@media (max-width: 320px){
-    .blk2{ margin-left: 50px !important;}
-    .footer{ margin-left: 30px; }
+
+@media (max-width: 320px) {
+    .blk2 {
+        margin-left: 50px !important;
+    }
+    .footer {
+        margin-left: 30px;
+    }
+    #about .container .row .text-center h2,
+    .lead {
+        margin-right: 0;
+        margin-left: auto;
+        font-size: 10px !important;
+    }
 }
